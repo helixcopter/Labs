@@ -1,0 +1,6 @@
+﻿  Theme_5_2.cpp
+c:\users\v.v.grigor\source\repos\theme_5_2\theme_5_2\theme_5_2.cpp(11): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+c:\users\v.v.grigor\source\repos\theme_5_2\theme_5_2\theme_5_2.cpp(11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\v.v.grigor\source\repos\theme_5_2\theme_5_2\theme_5_2.cpp(12): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+c:\users\v.v.grigor\source\repos\theme_5_2\theme_5_2\theme_5_2.cpp(12): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  Theme_5_2.vcxproj -> C:\Users\v.v.grigor\source\repos\Theme_5_2\Debug\Theme_5_2.exe
