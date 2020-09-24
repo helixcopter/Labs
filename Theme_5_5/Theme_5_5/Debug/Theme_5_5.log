@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  Theme_5_5.cpp
+c:\users\v.v.grigor\source\repos\theme_5_5\theme_5_5\theme_5_5.cpp(15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\v.v.grigor\source\repos\theme_5_5\theme_5_5\theme_5_5.cpp(16): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\v.v.grigor\source\repos\theme_5_5\theme_5_5\theme_5_5.cpp(17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\v.v.grigor\source\repos\theme_5_5\theme_5_5\theme_5_5.cpp(21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Theme_5_5.vcxproj -> C:\Users\v.v.grigor\source\repos\Theme_5_5\Debug\Theme_5_5.exe
