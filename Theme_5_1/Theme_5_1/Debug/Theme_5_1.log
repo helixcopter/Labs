@@ -1,0 +1,3 @@
+﻿  Theme_5_1.cpp
+c:\users\v.v.grigor\source\repos\theme_5_1\theme_5_1\theme_5_1.cpp(13): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Theme_5_1.vcxproj -> C:\Users\v.v.grigor\source\repos\Theme_5_1\Debug\Theme_5_1.exe
