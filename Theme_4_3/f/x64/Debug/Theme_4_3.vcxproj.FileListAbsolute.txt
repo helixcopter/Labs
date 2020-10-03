@@ -1,0 +1,2 @@
+C:\Users\RC530x64\source\repos\Theme_4_3\x64\Debug\Theme_4_3.exe
+C:\Users\RC530x64\source\repos\Theme_4_3\x64\Debug\Theme_4_3.pdb
